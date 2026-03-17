@@ -1,5 +1,5 @@
 # Healthcare-Analysis-
-![Healthcare Dashboard](aayushitejwani7.png)
+healthcare_dashboard_hd.pdf
 The Healthcare Monitoring Dashboard is a data visualization project designed to analyze and monitor key healthcare metrics using interactive and insightful dashboards. The goal of this project is to transform raw healthcare data into meaningful insights that help in understanding patient trends, medical resource distribution, and allergy patterns.
 
 This dashboard provides a comprehensive overview of healthcare data by displaying important Key Performance Indicators (KPIs) such as the total number of patients, the total number of doctors, and the total number of recorded allergies. These KPIs provide a quick snapshot of the healthcare system's overall status and help stakeholders understand the scale of patient records and medical resources available.
